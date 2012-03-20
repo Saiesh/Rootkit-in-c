@@ -1,0 +1,1 @@
+This is a simple rootkit for Linux. It aims to hide the module from the lsmod command .
